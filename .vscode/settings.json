@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "modbus_rtu_master.h": "c",
+    "esp_camera.h": "c",
+    "img_converters.h": "c"
+  },
+  "idf.port": "/dev/ttyACM0",
+  "idf.adapterTargetName": "esp32",
+  "idf.flashType": "UART",
+  "cmake.configureOnOpen": false
+}
